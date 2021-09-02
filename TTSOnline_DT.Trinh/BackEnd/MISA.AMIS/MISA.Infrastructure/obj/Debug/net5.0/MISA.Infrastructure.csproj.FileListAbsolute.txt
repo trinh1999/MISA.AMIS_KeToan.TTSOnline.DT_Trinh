@@ -1,0 +1,60 @@
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.deps.json
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.deps.json
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.deps.json
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.deps.json
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.pdb

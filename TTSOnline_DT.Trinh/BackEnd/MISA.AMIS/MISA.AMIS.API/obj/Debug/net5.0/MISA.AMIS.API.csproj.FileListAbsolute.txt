@@ -1,0 +1,156 @@
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.exe
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.deps.json
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.json
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.dev.json
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.AssemblyReference.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfoInputs.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfo.cs
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CoreCompileInputs.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.Manifest.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.xml
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\scopedcss\bundle\MISA.AMIS.API.styles.css
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.RazorTargetAssemblyInfo.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CopyComplete
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.genruntimeconfig.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.GenerateResource.cache
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.Properties.Resources.resources
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\EPPlus.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Thu Uyen\Desktop\MISA.AMIS\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.exe
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.deps.json
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.json
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.dev.json
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\EPPlus.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.AssemblyReference.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.Properties.Resources.resources
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.GenerateResource.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfoInputs.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfo.cs
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CoreCompileInputs.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.Manifest.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.xml
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\scopedcss\bundle\MISA.AMIS.API.styles.css
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.RazorTargetAssemblyInfo.cache
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CopyComplete
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\VietPC\Desktop\MISA.AMIS.REVIEW\web07-mf951-ttuyen\MISA.AMIS.BE\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.genruntimeconfig.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.exe
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.deps.json
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.json
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.dev.json
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\EPPlus.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.AssemblyReference.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfoInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfo.cs
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CoreCompileInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.Manifest.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.xml
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\scopedcss\bundle\MISA.AMIS.API.styles.css
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.RazorTargetAssemblyInfo.cache
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CopyComplete
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\VietPC\Documents\TTS_Misa\New folder\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.genruntimeconfig.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\appsettings.json
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.exe
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.deps.json
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.json
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.runtimeconfig.dev.json
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\EPPlus.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.AssemblyReference.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfoInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.AssemblyInfo.cs
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CoreCompileInputs.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.Manifest.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\staticwebassets\MISA.AMIS.API.StaticWebAssets.xml
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\scopedcss\bundle\MISA.AMIS.API.styles.css
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.RazorTargetAssemblyInfo.cache
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.csproj.CopyComplete
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\ref\MISA.AMIS.API.dll
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.pdb
+C:\Users\VietPC\Documents\TTS_Misa\TTSOnline_DT.Trinh\BackEnd\MISA.AMIS\MISA.AMIS.API\obj\Debug\net5.0\MISA.AMIS.API.genruntimeconfig.cache
